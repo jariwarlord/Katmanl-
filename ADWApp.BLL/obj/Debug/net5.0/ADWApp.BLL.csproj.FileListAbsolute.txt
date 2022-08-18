@@ -1,0 +1,15 @@
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\bin\Debug\net5.0\ADWApp.BLL.deps.json
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\bin\Debug\net5.0\ADWApp.BLL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\bin\Debug\net5.0\ADWApp.BLL.pdb
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\bin\Debug\net5.0\ADWApp.DAL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\bin\Debug\net5.0\ADWApp.DAL.pdb
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.AssemblyInfoInputs.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.AssemblyInfo.cs
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.csproj.CopyComplete
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\refint\ADWApp.BLL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ADWApp.BLL.pdb
+C:\Users\berke\Desktop\E-Shop\AdwApp\ADWApp.BLL\obj\Debug\net5.0\ref\ADWApp.BLL.dll

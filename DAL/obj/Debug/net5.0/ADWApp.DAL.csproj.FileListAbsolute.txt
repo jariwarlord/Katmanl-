@@ -1,0 +1,12 @@
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\bin\Debug\net5.0\ADWApp.DAL.deps.json
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\bin\Debug\net5.0\ADWApp.DAL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\bin\Debug\net5.0\ADWApp.DAL.pdb
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.csproj.AssemblyReference.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.AssemblyInfoInputs.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.AssemblyInfo.cs
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\refint\ADWApp.DAL.dll
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ADWApp.DAL.pdb
+C:\Users\berke\Desktop\E-Shop\AdwApp\DAL\obj\Debug\net5.0\ref\ADWApp.DAL.dll
